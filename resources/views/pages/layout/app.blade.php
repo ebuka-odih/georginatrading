@@ -86,7 +86,7 @@
                 <span class="visually-hidden">Go to main page</span>
 {{--                <img class="header-logo__icon" src="wp-content/uploads/2021/04/logo.svg"--}}
 {{--                     alt="">--}}
-                <h2 style="color: white; font-weight: bolder">TradesExcutions</h2>
+                <h2 style="color: white; font-weight: bolder">Georginatrading</h2>
             </a>
 
             <nav class="header-nav" data-nav data-scroll-lock-scrollable>

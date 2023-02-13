@@ -181,7 +181,7 @@
                             Made for everyone
                         </h2>
                         <div class="s-regular__description">
-                            <p>TradesExcution                                        was designed from the ground up to make trading and investing intuitive, and as simple as running water.</p>
+                            <p>Georginatrading                                        was designed from the ground up to make trading and investing intuitive, and as simple as running water.</p>
                             <br>
                             <p>Sign up and verify your account in under 2 minutes, to trade and invest with unmatched conditions on your desktop or mobile device.</p>
                         </div>
@@ -202,7 +202,7 @@
                         <div class="s-regular__description">
                             <p>Other trading platforms and brokerages charge commissions and borrowing fees, or various sorts of hidden fees.</p>
                             <br>
-                            <p>In TradesExcution                                       , there are no trade commissions, no borrowing fees – no fees of ANY kind.</p>
+                            <p>In Georginatrading                                       , there are no trade commissions, no borrowing fees – no fees of ANY kind.</p>
                         </div>
 
                     </div>
@@ -238,7 +238,7 @@
                             Transparency
                         </h2>
                         <div class="s-regular__description">
-                            TradesExcution                                        user trading data is digitized and published anonymously using a smart contract and IPFS, so the authenticity of the TradesExcution                                        unmatched trading conditions and volume can always be verified.
+                            Georginatrading                                        user trading data is digitized and published anonymously using a smart contract and IPFS, so the authenticity of the Georginatrading                                        unmatched trading conditions and volume can always be verified.
                         </div>
 
                         <footer class="s-regular__footer">
