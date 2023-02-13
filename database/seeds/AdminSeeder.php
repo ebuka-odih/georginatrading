@@ -19,7 +19,7 @@ class AdminSeeder extends Seeder
             DB::table('users')->insert([
                 'name' => 'Admin',
                 'admin' => 1,
-                'email' => 'admin@georginatrading.co',
+                'email' => 'admin@georginatrading.com',
                 'email_verified_at' => \Carbon\Carbon::now(),
                 'password' => Hash::make('georginatrading112'),
 
