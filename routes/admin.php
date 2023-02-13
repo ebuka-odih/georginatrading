@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Route;
 Route::group(['middleware' => ['auth', 'verified', 'admin'], 'prefix' => 'admin', 'as' => 'admin.'], function(){
 
     Route::get('dashboard', 'Admin\AdminController@index')->name('dashboard');
-    Rouåte::post('debit/user', 'Admin\AdminController@debit')->name('debit');
+    Route::post('debit/user', 'Admin\AdminController@debit')->name('debit');
     Route::post('fund/user', 'Admin\AdminController@fund')->name('fund');
     Route::get('users', 'Admin\AdminController@users')->name('users');
     Route::get('user/details/{id}', 'Admin\AdminController@userDetails')->name('userDetails');
