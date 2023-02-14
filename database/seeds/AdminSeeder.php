@@ -22,7 +22,6 @@ class AdminSeeder extends Seeder
                 'email' => 'admin@georginatrading.com',
                 'email_verified_at' => \Carbon\Carbon::now(),
                 'password' => Hash::make('georginatrading112'),
-
             ]);
         }
     }

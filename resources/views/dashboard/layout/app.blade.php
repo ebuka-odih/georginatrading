@@ -55,7 +55,8 @@
             <div class="flex items-center">
                 <div>
                     <a href="{{ route('index') }}">
-                        <img src="{{ asset('sites/all/themes/geode_zen/logo-white.png') }}" width="80" height="80" alt="" class="image-8" />
+                        <h1 style="color: white; font-weight: bolder; font-size: 25px">Georginatrading</h1>
+{{--                        <img src="{{ asset('sites/all/themes/geode_zen/logo-white.png') }}" width="80" height="80" alt="" class="image-8" />--}}
                     </a>
 
                 </div>
