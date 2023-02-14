@@ -7,7 +7,8 @@
             <div class="s-hero__container">
                 <div class="s-hero__content">
                     <h1 class="s-hero__title el-headline">
-                        Everybody&#8217;s <br class='el-br el-br--mobile'> Honest Trading
+
+                        Experience <br class='el-br el-br--mobile'> Professional Trading
                     </h1>
 
                     <div class="s-hero__description">
@@ -16,7 +17,7 @@
 
                     <div class="s-hero__links">
                         <a href="{{ route('login') }}" class="s-hero__ref s-hero__ref--lg btn btn--primary">
-                            View Live Trading
+                            Get Started
                         </a>
 
                     </div>
@@ -40,34 +41,34 @@
                 <ul class="s-trading__list">
                     <li class="s-trading__item">
                         <div class="s-trading__item-title">
-                            $80,361,874
+                            Professional Trading Since:
                         </div>
                         <div class="s-trading__item-desc">
-                            24 hours
+                            2010
                         </div>
                     </li>
                     <li class="s-trading__item">
                         <div class="s-trading__item-title">
-                            $1,218,782,094
+                            Days I Trade Weekly
                         </div>
                         <div class="s-trading__item-desc">
-                            7 days
+                            7 days/Week
                         </div>
                     </li>
                     <li class="s-trading__item">
                         <div class="s-trading__item-title">
-                            $4,830,270,420
+                            Your Funds Insurance By
                         </div>
                         <div class="s-trading__item-desc">
-                            30 days
+                            Skandia Insurance
                         </div>
                     </li>
                     <li class="s-trading__item">
                         <div class="s-trading__item-title">
-                            433,135
+                            Regulated By
                         </div>
                         <div class="s-trading__item-desc">
-                            Quantfurians
+                            FCA UK
                         </div>
                     </li>
                 </ul>
@@ -88,7 +89,8 @@
                             </h3>
                         </div>
                         <div class="s-steps__item-description">
-                            Go long on stocks you like and short ones you don’t.
+                            Make Gains on Stocks all over the world as I trade them with Pro strategy and systems
+
                         </div>
 
                     </a>
@@ -120,7 +122,8 @@
                             </h3>
                         </div>
                         <div class="s-steps__item-description">
-                            Manage your risks with exposure to many stocks at once.
+                            Experience Progress as I trade the Exchange Traded Fund
+
                         </div>
                     </a>
                 </li>
@@ -135,7 +138,7 @@
                             </h3>
                         </div>
                         <div class="s-steps__item-description">
-                            Speculate on global market movements.
+                            The Global Markets are moving , connect to my systems to experience futures trading
                         </div>
                     </a>
                 </li>

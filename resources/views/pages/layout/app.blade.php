@@ -74,12 +74,7 @@
         </div>
 
     </div>
-    <div class="header-top" data-caution>
-        <div class="header-top__container">
-            <p><strong>Trade with caution.</strong> Contracts for difference (CFDs) are complex instruments and come with a high risk of losing money rapidly due to leverage. <strong>73.62% of retail investor accounts lose money when trading CFDs at real-time spot prices of global and crypto exchanges free of any fees with Georginatrading.</strong> You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.</p>
 
-        </div>
-    </div>
     <div class="header__fixed" data-fixed>
         <div class="header__container">
             <a class="header-logo" href="{{ route('index') }}">
