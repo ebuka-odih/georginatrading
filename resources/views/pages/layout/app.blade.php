@@ -366,11 +366,7 @@
 
 
 <footer class="footer js-footer">
-    <article class="footer__info">
-        <div class="footer__info-container">
-            TradesExcution                                        allows users to obtain economic exposure to the price movement of an underlying financial instrument without the need for ownership and physical settlement of the underlying financial instrument. As such references to “trades,” “trading,” "buy," and "sell" as part of TradesExcution                                       , should be understood as user-directed exposures to positions of various financial instruments that undergo price fluctuations, without ownership of the underlying financial instrument. A TradesExcution                                        user who has an existing opened long position in a stock at the market open on the company's ex-dividend date will receive the announced dividend per share amount. A TradesExcution                                        user who has an existing short position in a stock at the market open on the company's ex-dividend date will pay the announced dividend per share amount. As with all trading of equities, commodities, cryptocurrencies, and fiat currencies, user-directed exposures and "trading" using TradesExcution                                        carries a level of risk that may not be suitable for all persons interested in trading. You may sustain a loss of some or all of your invested capital, therefore, you should not speculate with capital that you cannot afford to lose. You should seek advice from an independent financial advisor before taking user-directed exposures or "trading" using TradesExcution                                       . The information found on this website isn’t applicable to residents of the USA or Canada and should not be used or accessed in any country or jurisdiction where such use or access is not permitted under applicable law.
-        </div>
-    </article>
+
     <div class="footer__line-wrap"><span class="footer__line"></span></div>
     <div class="footer__content">
         <div class="footer__container">
@@ -396,37 +392,37 @@
 
                             <ul class="footer-item__subnav">
                                 <li class="footer-item__subitem">
-                                    <a href="{{ route('login') }}" data-prefetch data-link
+                                    <a  data-prefetch data-link
                                        class="footer-item__sublink"  target="_blank" >
                                         Stocks
                                     </a>
                                 </li>
                                 <li class="footer-item__subitem">
-                                    <a href="{{ route('login') }}" data-prefetch data-link
+                                    <a  data-prefetch data-link
                                        class="footer-item__sublink"  target="_blank" >
                                         Crypto Pairs
                                     </a>
                                 </li>
                                 <li class="footer-item__subitem">
-                                    <a href="{{ route('login') }}" data-prefetch data-link
+                                    <a  data-prefetch data-link
                                        class="footer-item__sublink"  target="_blank" >
                                         ETFs
                                     </a>
                                 </li>
                                 <li class="footer-item__subitem">
-                                    <a href="{{ route('login') }}" data-prefetch data-link
+                                    <a  data-prefetch data-link
                                        class="footer-item__sublink"  target="_blank" >
                                         Index Futures
                                     </a>
                                 </li>
                                 <li class="footer-item__subitem">
-                                    <a href="{{ route('login') }}" data-prefetch data-link
+                                    <a  data-prefetch data-link
                                        class="footer-item__sublink"  target="_blank" >
                                         Commodity Futures
                                     </a>
                                 </li>
                                 <li class="footer-item__subitem">
-                                    <a href="{{ route('login') }}" data-prefetch data-link
+                                    <a  data-prefetch data-link
                                        class="footer-item__sublink"  target="_blank" >
                                         Forex Pairs
                                     </a>
@@ -444,15 +440,10 @@
                                 <li class="footer-item__subitem">
                                     <a href="{{ route('about') }}" data-prefetch data-link
                                        class="footer-item__sublink" >
-                                        Our story
+                                        My story
                                     </a>
                                 </li>
-                                <li class="footer-item__subitem">
-                                    <a href="{{ route('commitments') }}" data-prefetch data-link
-                                       class="footer-item__sublink" >
-                                        Commitments
-                                    </a>
-                                </li>
+
                             </ul>
                         </li>
                     </ul>

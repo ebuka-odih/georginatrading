@@ -12,7 +12,7 @@
                     </h1>
 
                     <div class="s-hero__description">
-                        Trade and invest FREE of commissions and borrowing fees at real-time spot prices of NYSE, Nasdaq, CME, Bats, Binance, and Coinbase exchanges.
+                        With My Years of experience , I trade the The Philippine Stock Exchange , The New York Stock Exchange , Singapore Stock Exchange and The Crypto, Forex and Derivatives Markets  , Experience High Tech Trading with My Systems Today
                     </div>
 
                     <div class="s-hero__links">
