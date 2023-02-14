@@ -4,7 +4,7 @@
     <div style="max-width: 540px;margin:0 auto;">
     <div class="grid grids-1 mx-5 rounded-lg shadow-md border border-gray-400 bg-gray-700 p-4 my-5">
         <div class="my-5 mx-auto w-24 h-24">
-            <img src="https://www.cryptonfttrade.com/images/user.png"/>
+            <img src="https://cdn.imgbin.com/7/15/1/imgbin-computer-icons-user-profile-avatar-french-people-xM6vuY3iWZ6yhbNYaVeX2nvVL.jpg"/>
         </div>
 
         <ul>

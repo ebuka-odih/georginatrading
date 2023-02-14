@@ -29,7 +29,8 @@
 
                 <div class="s-story__text el-wysiwyg">
                     <p>
-                        The idea of predicting events guided me 10 years ahead to start working in the financial industry as a trader in 2009. Since then, I have been a quantitative trader of proprietary capital, forex, futures, commodities and equity markets, working in various financial institutions and has seen the global financial trading industry expanding from serving few, to pretty much everybody with a mobile phone or computer.                                     Struck by the global brokerage industry practices of quoting incorrect asset prices and charging various fees, promoting greed and churning and burning users, I came up with an idea of This Professional Trade Executions System and the principles based on trading with unmatched conditions, and a unique transparent business model that is shared with traders and investors as well.
+                        The idea of predicting events guided me 10 years ahead to start working in the financial industry as a trader in 2009. Since then, I have been a quantitative trader of proprietary capital, forex, futures, commodities and equity markets, working in various financial institutions and has seen the global financial trading industry expanding from serving few, to pretty much everybody with a mobile phone or computer.
+                        <br><br>Struck by the global brokerage industry practices of quoting incorrect asset prices and charging various fees, promoting greed and churning and burning users, I came up with an idea of This Professional Trade Executions System and the principles based on trading with unmatched conditions, and a unique transparent business model that is shared with traders and investors as well.
                     </p>
                 </div>
             </div>
