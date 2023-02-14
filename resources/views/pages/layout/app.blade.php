@@ -444,7 +444,9 @@
                 <div class="footer__legal-text" data-legal-text>
                     <p>© 2023 Georginatrading. All rights reserved.</p>
                     <p>Georginatrading Trading Limited and its mobile app and web-based application. </p>
-                    <p>Georginatrading is authorized and regulated by Securities Commission of the Bahamas. View Georginatrading                                       ’s Brokerage license no. <a href="Registration-Certificate-Georginatrading                                       .pdf" target="_blank" rel="noopener">SIA-F204</a>. Search Georginatrading                                        Brokerage license <a href="https://www.scb.gov.bs/wp-content/uploads/2021/12/SIA-Firms-as-at-30-November-2021.pdf" target="_blank" rel="noopener">here</a>. View Georginatrading                                       &#8217;s custody of digital assets, wallet provider licence <a href="Quantfury-custody-of-digital-assets-wallet-provider-licence.pdf" target="_blank" rel="noopener">FCSPA NO. F-034</a>.</p>
+                   <p>
+                       Georgina Trading is authorized and regulated by The Financial Conduct Authority - View Georgina Trading’s license no QNH-7266. All Funds traded are covered with Insurance provided by Skandia Insurance
+                   </p>
 
                 </div>
 
