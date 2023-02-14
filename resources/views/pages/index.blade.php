@@ -279,7 +279,7 @@
 
                     <div class="s-about__footer">
                         <a class="s-about__link btn btn--primary" href="{{ route('about') }}">
-                            Learn more about us
+                            Experience
                         </a>
                     </div>
                 </div>
