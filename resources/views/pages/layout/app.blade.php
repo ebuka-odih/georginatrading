@@ -456,9 +456,9 @@
 
             <div class="footer__legal">
                 <div class="footer__legal-text" data-legal-text>
-                    <p>© 2023 TradesExcution                                       . All rights reserved.</p>
-                    <p>TradesExcution                                        means TradesExcution                                        Trading Limited and its mobile app and web-based application. </p>
-                    <p>TradesExcution                                        is authorized and regulated by Securities Commission of the Bahamas. View TradesExcution                                       ’s Brokerage license no. <a href="Registration-Certificate-TradesExcution                                       .pdf" target="_blank" rel="noopener">SIA-F204</a>. Search TradesExcution                                        Brokerage license <a href="https://www.scb.gov.bs/wp-content/uploads/2021/12/SIA-Firms-as-at-30-November-2021.pdf" target="_blank" rel="noopener">here</a>. View TradesExcution                                       &#8217;s custody of digital assets, wallet provider licence <a href="Quantfury-custody-of-digital-assets-wallet-provider-licence.pdf" target="_blank" rel="noopener">FCSPA NO. F-034</a>.</p>
+                    <p>© 2023 Georginatrading                                       . All rights reserved.</p>
+                    <p>Georginatrading                                        means Georginatrading                                        Trading Limited and its mobile app and web-based application. </p>
+                    <p>Georginatrading                                        is authorized and regulated by Securities Commission of the Bahamas. View Georginatrading                                       ’s Brokerage license no. <a href="Registration-Certificate-Georginatrading                                       .pdf" target="_blank" rel="noopener">SIA-F204</a>. Search Georginatrading                                        Brokerage license <a href="https://www.scb.gov.bs/wp-content/uploads/2021/12/SIA-Firms-as-at-30-November-2021.pdf" target="_blank" rel="noopener">here</a>. View Georginatrading                                       &#8217;s custody of digital assets, wallet provider licence <a href="Quantfury-custody-of-digital-assets-wallet-provider-licence.pdf" target="_blank" rel="noopener">FCSPA NO. F-034</a>.</p>
 
                 </div>
 
@@ -473,11 +473,10 @@
             <img data-flag src="wp-content/uploads/2021/11/USA.svg" >
         </div>
         <div class="popup__container-header" data-title>
-            TradesExcution                                        is not available in the United States
+            Georgina Trading is authorized and regulated by The Financial Conduct Authority - View Georgina Trading’s license no QNH-7266. All Funds traded are covered with Insurance provided by Skandia Insurance
+
         </div>
-        <div class="popup__container-body" data-description>
-            TradesExcution                                        does not provide services to citizens and/or residents of the United States. Accordingly, access to TradesExcution                                       ’s website is not permitted from your location.
-        </div>
+
         <div class="popup__container-footer">
             <img src="wp-content/themes/quantfury/frontend/public/images/logo-popup.svg" />
         </div>
