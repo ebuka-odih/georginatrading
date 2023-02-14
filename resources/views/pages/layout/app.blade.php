@@ -215,20 +215,7 @@
                                             <a href="{{ route('about') }}" data-prefetch data-link
                                                class="header-item__sublink  "
                                             >
-                                                <strong>Our story</strong>
-                                                <span class="header-item__sublink-count"></span>
-                                            </a>
-                                            <svg class="el-icon header-item__sublink-arrow">
-                                                <use xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                     xlink:href="wp-content/themes/quantfury/frontend/public/images/svg_sprite_inline/sprite_inline.svg#ic-menu-arrow"
-                                                ></use>
-                                            </svg>
-                                        </li>
-                                        <li class="header-item__subitem">
-                                            <a href="{{ route('commitments') }}" data-prefetch data-link
-                                               class="header-item__sublink  "
-                                            >
-                                                <strong>Commitments</strong>
+                                                <strong>My story</strong>
                                                 <span class="header-item__sublink-count"></span>
                                             </a>
                                             <svg class="el-icon header-item__sublink-arrow">

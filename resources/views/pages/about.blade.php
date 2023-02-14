@@ -11,7 +11,7 @@
     <section class="s-story">
         <div class="s-story__container">
             <h1 class="s-story__title el-headline">
-                Our story
+                My story
             </h1>
 
             <div class="s-story__content">
@@ -28,9 +28,9 @@
                 </div>
 
                 <div class="s-story__text el-wysiwyg">
-                    <p>The idea of predicting events guided us 10 years to start working in the financial industry as a trader in the late 90s. Since then, we have been a quantitative traders of proprietary capital, forex, futures, commodities and equity markets, working in various financial institutions and has seen the global financial trading industry expanding from serving few, to pretty much everybody with a mobile phone or computer.
+                    <p>
+                        The idea of predicting events guided me 10 years ahead to start working in the financial industry as a trader in 2009. Since then, I have been a quantitative trader of proprietary capital, forex, futures, commodities and equity markets, working in various financial institutions and has seen the global financial trading industry expanding from serving few, to pretty much everybody with a mobile phone or computer.                                     Struck by the global brokerage industry practices of quoting incorrect asset prices and charging various fees, promoting greed and churning and burning users, I came up with an idea of This Professional Trade Executions System and the principles based on trading with unmatched conditions, and a unique transparent business model that is shared with traders and investors as well.
                     </p>
-                    <p class="p1">Struck by the global brokerage industry practices of quoting incorrect asset prices and charging various fees, promoting greed and churning and burning users, We came up with an idea of Trade Executions and the principles based on trading with unmatched conditions, and a unique transparent business model that is shared with traders as well.</p>
                 </div>
             </div>
         </div>
