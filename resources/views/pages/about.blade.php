@@ -23,7 +23,7 @@
                         <source media="(max-width: 1199.99px)" srcset="https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-270x270.png 1x, https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-540x540.png 2x" width="270" height="270">
                         <source media="(max-width: 1599.99px)" srcset="https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-270x270.png 1x, https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-540x540.png 2x" width="270" height="270">
                         <source media="(min-width: 1600px)" srcset="https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-270x270.png 1x, https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-540x540.png 2x" width="270" height="270">
-                        <img decoding="async" loading="lazy" class="s-story__img el-image" src="{{ asset('wp-content/uploads/fly-images/14397/our-story-270x270.png') }}" alt="" width="270" height="270">
+                        <img decoding="async" loading="lazy" class="s-story__img el-image" src="{{ asset('img/georg.jpeg') }}" alt="" width="270" height="270">
                     </picture>
                 </div>
 

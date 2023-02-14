@@ -107,7 +107,7 @@
                                 <div class="header-item__wrap--container-list">
                                     <ul class="header-item__subnav">
                                         <li class="header-item__subitem">
-                                            <a href="{{ route('login') }}" data-prefetch data-link
+                                            <a  data-prefetch data-link
                                                class="header-item__sublink  "
                                                target="_blank" >
                                                 <strong>Stocks</strong>
@@ -120,7 +120,7 @@
                                             </svg>
                                         </li>
                                         <li class="header-item__subitem">
-                                            <a href="{{ route('login') }}" data-prefetch data-link
+                                            <a  data-prefetch data-link
                                                class="header-item__sublink  "
                                                target="_blank" >
                                                 <strong>Crypto Pairs</strong>
@@ -133,7 +133,7 @@
                                             </svg>
                                         </li>
                                         <li class="header-item__subitem">
-                                            <a href="{{ route('login') }}" data-prefetch data-link
+                                            <a  data-prefetch data-link
                                                class="header-item__sublink  "
                                                target="_blank" >
                                                 <strong>ETFs</strong>
@@ -148,7 +148,7 @@
                                     </ul>
                                     <ul class="header-item__subnav header-item__subnav">
                                         <li class="header-item__subitem">
-                                            <a href="{{ route('login') }}" data-prefetch data-link
+                                            <a  data-prefetch data-link
                                                class="header-item__sublink  "
                                                target="_blank" >
                                                 <strong>Index Futures</strong>
@@ -161,7 +161,7 @@
                                             </svg>
                                         </li>
                                         <li class="header-item__subitem">
-                                            <a href="{{ route('login') }}" data-prefetch data-link
+                                            <a  data-prefetch data-link
                                                class="header-item__sublink  "
                                                target="_blank" >
                                                 <strong>Commodity Futures</strong>
@@ -174,7 +174,7 @@
                                             </svg>
                                         </li>
                                         <li class="header-item__subitem">
-                                            <a href="{{ route('login') }}" data-prefetch data-link
+                                            <a  data-prefetch data-link
                                                class="header-item__sublink  "
                                                target="_blank" >
                                                 <strong>Forex Pairs</strong>
@@ -443,9 +443,9 @@
 
             <div class="footer__legal">
                 <div class="footer__legal-text" data-legal-text>
-                    <p>© 2023 Georginatrading                                       . All rights reserved.</p>
-                    <p>Georginatrading                                        means Georginatrading                                        Trading Limited and its mobile app and web-based application. </p>
-                    <p>Georginatrading                                        is authorized and regulated by Securities Commission of the Bahamas. View Georginatrading                                       ’s Brokerage license no. <a href="Registration-Certificate-Georginatrading                                       .pdf" target="_blank" rel="noopener">SIA-F204</a>. Search Georginatrading                                        Brokerage license <a href="https://www.scb.gov.bs/wp-content/uploads/2021/12/SIA-Firms-as-at-30-November-2021.pdf" target="_blank" rel="noopener">here</a>. View Georginatrading                                       &#8217;s custody of digital assets, wallet provider licence <a href="Quantfury-custody-of-digital-assets-wallet-provider-licence.pdf" target="_blank" rel="noopener">FCSPA NO. F-034</a>.</p>
+                    <p>© 2023 Georginatrading . All rights reserved.</p>
+                    <p>Georginatrading Trading Limited and its mobile app and web-based application. </p>
+                    <p>Georginatrading is authorized and regulated by Securities Commission of the Bahamas. View Georginatrading                                       ’s Brokerage license no. <a href="Registration-Certificate-Georginatrading                                       .pdf" target="_blank" rel="noopener">SIA-F204</a>. Search Georginatrading                                        Brokerage license <a href="https://www.scb.gov.bs/wp-content/uploads/2021/12/SIA-Firms-as-at-30-November-2021.pdf" target="_blank" rel="noopener">here</a>. View Georginatrading                                       &#8217;s custody of digital assets, wallet provider licence <a href="Quantfury-custody-of-digital-assets-wallet-provider-licence.pdf" target="_blank" rel="noopener">FCSPA NO. F-034</a>.</p>
 
                 </div>
 
