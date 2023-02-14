@@ -16,15 +16,9 @@
 
             <div class="s-story__content">
                 <div class="s-story__picture">
-                    <picture class="el-picture">
-                        <source media="(max-width: 374.99px)" srcset="https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-345x345.png 1x, https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-690x690.png 2x" width="345" height="345">
-                        <source media="(max-width: 767.99px)" srcset="https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-735x735.png 1x, https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-1470x1470.png 2x" width="540" height="540">
-                        <source media="(max-width: 1023.99px)" srcset="https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-270x270.png 1x, https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-540x540.png 2x" width="270" height="270">
-                        <source media="(max-width: 1199.99px)" srcset="https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-270x270.png 1x, https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-540x540.png 2x" width="270" height="270">
-                        <source media="(max-width: 1599.99px)" srcset="https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-270x270.png 1x, https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-540x540.png 2x" width="270" height="270">
-                        <source media="(min-width: 1600px)" srcset="https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-270x270.png 1x, https://quantfury.com/wp-content/uploads/fly-images/14397/our-story-540x540.png 2x" width="270" height="270">
-                        <img decoding="async" loading="lazy" class="s-story__img el-image" src="{{ asset('img/georg.jpeg') }}" alt="" width="270" height="270">
-                    </picture>
+
+                    <img decoding="async" loading="lazy" class="s-story__img el-image" src="{{ asset('img/gerog.jpeg') }}" alt="" width="270" height="270">
+
                 </div>
 
                 <div class="s-story__text el-wysiwyg">
