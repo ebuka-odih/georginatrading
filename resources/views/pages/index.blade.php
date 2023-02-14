@@ -241,7 +241,7 @@
                             Transparency
                         </h2>
                         <div class="s-regular__description">
-                            Georginatrading                                        use trading data is digitized and published anonymously using a smart contract and IPFS, so the authenticity of the Georginatrading                                        unmatched trading conditions and volume can always be verified.
+                            Georginatrading                                        uses trading data is digitized and published anonymously using a smart contract and IPFS, so the authenticity of the Georginatrading                                        unmatched trading conditions and volume can always be verified.
                         </div>
 
                         <footer class="s-regular__footer">
