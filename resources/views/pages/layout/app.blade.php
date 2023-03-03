@@ -8,29 +8,22 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
-    <link rel="profile" href="https://gmpg.org/xfn/11">
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700&amp;display=swap" rel="stylesheet">
     <!-- wp-head -->
 
     <!-- This site is optimized with the Yoast SEO Premium plugin v18.9 (Yoast SEO v19.12) - https://yoast.com/wordpress/plugins/seo/ -->
     <meta name="description" content="Georginatrading – trade and invest FREE of commissions and borrowing fees at real-time spot prices of global exchanges." />
-    <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Georginatrading | Everybody&#039;s Honest Trading &amp; Investing" />
     <meta property="og:description" content="Georginatrading – trade and invest FREE of commissions and borrowing fees at real-time spot prices of global exchanges." />
-    <meta property="og:url" content="index.html" />
     <meta property="og:site_name" content="Georginatrading" />
     <meta name="twitter:title" content="Georginatrading | Everybody&#039;s Honest Trading &amp; Investing" />
     <meta name="twitter:description" content="Georginatrading – trade and invest FREE of commissions and borrowing fees at real-time spot prices of global exchanges." />
-    <meta name="twitter:image" content="wp-content/uploads/2022/06/facebook-OG-img.jpg" />
     <meta name="twitter:site" content="@Georginatrading" />
 
 
     <!-- / Yoast SEO Premium plugin. -->
-
-
     <link rel='stylesheet' id='quantfury-style-css' href='{{ asset('wp-content/themes/quantfury/frontend/public/styles/style.min8878.css?ver=0a394aaf080e680671f88e507eed108c') }}' type='text/css' media='all' />
     <link rel='stylesheet' id='hero-block-styles-css' href='{{ asset('wp-content/themes/quantfury/frontend/public/styles/hero.min0d3b.css?ver=f40962ca23dd394ec58cd80239d61078') }}' type='text/css' media='all' />
     <link rel='stylesheet' id='about-block-styles-css' href='{{ asset('wp-content/themes/quantfury/frontend/public/styles/about.min209c.css?ver=ee20e6ea5b763bb6750e44d32d319066') }}' type='text/css' media='all' />
@@ -45,18 +38,8 @@
     </style>
 
     <script type='text/javascript' src='{{ asset('wp-content/plugins/sitepress-multilingual-cms/dist/js/browser-redirect/app75a0.js?ver=4.5.14') }}' id='wpml-browser-redirect-js'></script>
-    <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/7.json" />
     <meta name="generator" content="WPML ver:4.5.14 stt:67,1,4,3,66,45,2,53;" />
     <style>a.pld-like-dislike-trigger {color: #103055;}span.pld-count-wrap {color: #103055;}</style>
-    <link rel="apple-touch-icon" sizes="180x180" href="wp-content/uploads/fbrfg/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="wp-content/uploads/fbrfg/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="wp-content/uploads/fbrfg/favicon-16x16.png">
-
-    <link rel="manifest" href="wp-content/uploads/fbrfg/site.webmanifest">
-    <link rel="mask-icon" href="wp-content/uploads/fbrfg/safari-pinned-tab.svg" color="#303d51">
-    <link rel="shortcut icon" href="wp-content/uploads/fbrfg/favicon.ico">
-    <meta name="msapplication-TileColor" content="#00aba9">
-    <meta name="msapplication-config" content="/wp-content/uploads/fbrfg/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
 
 </head>
