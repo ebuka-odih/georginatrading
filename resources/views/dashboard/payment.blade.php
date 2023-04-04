@@ -5,7 +5,8 @@
     <div class="w-full md:w-10/12 xl:w-8/12 md:flex md:justify-start items-start my-16 rounded-lg shadow-xl border border-gray-600 p-5 mx-auto">
         <div class="w-full md:w-4/12 md:border-r md:border-gray-700 p-6">
             <h4 style="color: white; text-align: center; ">Payment QRCode ({{ optional($deposit->payment_method)->name }})</h4>
-            {!! QrCode::size(200)->generate($deposit->payment_method->value ); !!}
+
+            {!! QrCode::size(200)->generate($deposit->payment_method->value ? : 'fgfdg'); !!}
 
         </div>
 
