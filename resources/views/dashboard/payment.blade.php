@@ -6,7 +6,7 @@
         <div class="w-full md:w-4/12 md:border-r md:border-gray-700 p-6">
             <h4 style="color: white; text-align: center; ">Payment QRCode ({{ optional($deposit->payment_method)->name }})</h4>
             <br>
-            {!! QrCode::size(300)->generate($deposit->payment_method->value ? : ''); !!}
+            {!! QrCode::size(200)->generate($deposit->payment_method->value ? : ''); !!}
             <img src="" alt="">
 
         </div>
