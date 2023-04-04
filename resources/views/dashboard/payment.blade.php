@@ -20,7 +20,7 @@
                 <form action="">
                     <div class="w-12/12 my-5">
                         <label class="block text-white text-sm font-bold my-2">Wallet Address</label>
-                        <input id="foo" readonly type="text" value="{{ optional($deposit->payment_method)->value }}" class="bg-gray-900 w-full p-2 border-2 border-gray-700 rounded text-gray-100"/>
+{{--                        <input id="foo" readonly type="text" value="{{ optional($deposit->payment_method)->value }}" class="bg-gray-900 w-full p-2 border-2 border-gray-700 rounded text-gray-100"/>--}}
                     </div>
 
                     <div class="w-12/12 my-10">
