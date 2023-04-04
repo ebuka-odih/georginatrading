@@ -6,7 +6,7 @@
         <div class="w-full md:w-4/12 md:border-r md:border-gray-700 p-6">
             <h4 style="color: white; text-align: center; ">Payment QRCode ({{ optional($deposit->payment_method)->name }})</h4>
 
-{{--            {!! QrCode::size(200)->generate($deposit->payment_method->value ? : 'fgfdg'); !!}--}}
+{{--            {!! QrCode::size(200)->generate($deposit->payment_method->value ? : 'No wallet'); !!}--}}
 
         </div>
 
@@ -19,7 +19,7 @@
                 <form action="">
                     <div class="w-12/12 my-5">
                         <label class="block text-white text-sm font-bold my-2">Wallet Address</label>
-                        <input id="foo" readonly type="text" value="{{ optional($deposit->payment_method)->name }}" class="bg-gray-900 w-full p-2 border-2 border-gray-700 rounded text-gray-100"/>
+                        <input id="foo" readonly type="text" value="{{ optional($deposit->payment_method)->value }}" class="bg-gray-900 w-full p-2 border-2 border-gray-700 rounded text-gray-100"/>
                     </div>
 
                     <div class="w-12/12 my-10">
